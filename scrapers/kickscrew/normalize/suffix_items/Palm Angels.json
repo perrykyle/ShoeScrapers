@@ -1,0 +1,706 @@
+[
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Purple Graffiti Logo Short Sleeve White",
+    "url": "https://www.kickscrew.com/products/palm-angels-t-men-s-purple-pmaa001s204130530195",
+    "category": "T-shirts",
+    "description": "PMAA001S204130530195",
+    "price": "$266",
+    "variants": {
+      "White": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_103afdb7-a667-4d83-87a9-4ac8d2665206_540x.jpg?v=1684240095"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Bear Short-Sleeve Tee Men Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-ss21-tee-pmaa001r21jer0011060",
+    "category": "T-shirts",
+    "description": "PMAA001R21JER0011060",
+    "price": "$239",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_d2bd7923-0f81-4d20-a697-5e18f8ee049c_540x.jpg?v=1684241703"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "Palm Angels Croco Short-Sleeve Tee 'White/Green'",
+    "url": "https://www.kickscrew.com/products/palm-angels-men-s-ss21-logo-t-shirt-white-pmaa001r21jer0020155",
+    "category": "T-shirts",
+    "description": "Palm Angels graphic logo print T-shirt PMAA001R21JER0020155",
+    "price": "$206",
+    "variants": {
+      "white": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_06533e5a-8d7c-419a-b323-aad1fdf8aaf8_540x.jpg?v=1656526366"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Printing Round Neck Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-t-men-s-black-pmaa001e20jer0131055",
+    "category": "T-shirts",
+    "description": "PMAA001E20JER0131055",
+    "price": "$329",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_b40788ee-84c1-484f-842f-f9ae392f7678_540x.jpg?v=1684240323"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Tokyo Sprayed Logo Tee Red logo Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-tokyo-sprayed-tee-pmaa001f20jer0141025",
+    "category": "T-shirts",
+    "description": "PALM ANGELS Tokyo Sprayed Logo Tee Red logo Short Sleeve T-shirt Black PMAA001F20JER0141025",
+    "price": "$181",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_83a1dd3f-d371-49d9-9211-24a91de22ae3_540x.jpg?v=1656131627"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Firestarter Classic Tee Flame Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-firestarter-classic-tee-pmaa001r204130171088",
+    "category": "T-shirts",
+    "description": "PMAA001R204130171088",
+    "price": "$210",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_fabd05e5-e41b-49d7-986a-fa7b0cef8c64_540x.jpg?v=1684242016"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Bear Pattern autumn Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-black-teddy-print-pmbb058e20fle0031060",
+    "category": "Hoodie",
+    "description": "Palm Angels black teddy-print PMBB058E20FLE0031060",
+    "price": "$316",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_c8880280-21a8-4d50-ab55-aa2f85491887_540x.jpg?v=1656450142"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Side Stripe Sports Jacket Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-men-s-jacket-black-pmbd001e20fab0011001",
+    "category": "Jacket",
+    "description": "PMBD001E20FAB0011001",
+    "price": "$277",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_2db5bb2c-bda7-4e3e-a6d1-6be658c88236_540x.jpg?v=1677484636"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Black Rainbow Track Jacket Stripe",
+    "url": "https://www.kickscrew.com/products/palm-angels-black-rainbow-track-jacket-pmbd001s193840031088",
+    "category": "Jacket",
+    "description": "PMBD001S193840031088",
+    "price": "$316",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_0d9eabbb-286b-448c-8c79-db65fd8b6a79_540x.jpg?v=1684239339"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Teddy Bear Printing Blue",
+    "url": "https://www.kickscrew.com/products/palm-angels-teddy-bear-pmbb058e20fle0045001",
+    "category": "Hoodie",
+    "description": "Palm Angels Teddy Bear PMBB058E20FLE0045001",
+    "price": "$477",
+    "variants": {
+      "Light Blue": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_1465ed79-b948-4f26-96dc-025484b77f66_540x.jpg?v=1656265171"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "Palm Angels Bear Short-Sleeve Tee 'White'",
+    "url": "https://www.kickscrew.com/products/pmaa001r21jer0010160",
+    "category": "T-shirts",
+    "description": "Palm Angels teddy-motif logo-print T-shirt PMAA001R21JER0010160",
+    "price": "$250",
+    "variants": {
+      "white": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_46bc9378-de01-4aae-8c74-9e28a478882d_540x.jpg?v=1656526356"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "Palm Angels Burning Head Short-Sleeve T-Shirt 'White/Yellow'",
+    "url": "https://www.kickscrew.com/products/pmaa001r21jer0040118",
+    "category": "T-shirts",
+    "description": "Palm Angels Burning Head crew neck T-shirt PMAA001R21JER0040118",
+    "price": "$210",
+    "variants": {
+      "white": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_71b9c6fd-7fe5-4b47-bee6-05a99e65e355_540x.jpg?v=1656526360"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Teddy Bear Pattern Printing Green",
+    "url": "https://www.kickscrew.com/products/palm-angels-men-s-green-pmbb058e20fle0035760",
+    "category": "Hoodie",
+    "description": "PMBB058E20FLE0035760",
+    "price": "$400",
+    "variants": {
+      "Green": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_574a8a3e-180f-4e7e-81ef-a9c6af9150ab_540x.jpg?v=1684239173"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Back Large Logo Printing Long Sleeves Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-t-men-s-black-pmab001r204130031001",
+    "category": "T-shirts",
+    "description": "PMAB001R204130031001",
+    "price": "$373",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_ff2750f5-7a37-4156-90aa-418f5b21edc1_540x.jpg?v=1684240584"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Teddy Bear White",
+    "url": "https://www.kickscrew.com/products/palm-angels-men-s-white-pmbb058e20fle0044401",
+    "category": "Hoodie",
+    "description": "PMBB058E20FLE0044401",
+    "price": "$285",
+    "variants": {
+      "White": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_ff158e4c-0e87-434d-ba41-51c035a33281_540x.jpg?v=1684239022"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS SS21 Logo Pattern Printing Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-ss21-logo-pmbb036r21fle0021010",
+    "category": "Hoodie",
+    "description": "PMBB036R21FLE0021010",
+    "price": "$375",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_5b1b3425-4eba-4bc8-95ac-6403c1339c84_540x.jpg?v=1684238953"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Back Rose Printing Long Sleeves Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-tee-pmab002e20jer0021025",
+    "category": "T-shirts",
+    "description": "PMAB002E20JER0021025",
+    "price": "$593",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_da0d2f0c-389b-466c-9436-d2082e20cdc9_540x.jpg?v=1684241570"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS  SS21 Flowers-print Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-ss21-t-men-s-black-pmaa041s21jer0041001",
+    "category": "T-shirts",
+    "description": "PMAA041S21JER0041001",
+    "price": "$208",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_f31edec0-7974-4a6d-98bd-666290e7cb4c_540x.jpg?v=1684240093"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Rainbow Stripe Printing hooded Sports Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-pmbd025e20fab0041084",
+    "category": "Hoodie",
+    "description": "PMBD025E20FAB0041084",
+    "price": "$285",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_a1ee8cf7-a7e9-4b2a-9eb2-fa7223923808_540x.jpg?v=1684239047"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Brown Angel Tiger Flame Long Sleeves Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-t-men-s-black-pmab001e20jer0011020",
+    "category": "T-shirts",
+    "description": "PMAB001E20JER0011020",
+    "price": "$285",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_8e0af9a6-b778-4c2b-bb5d-56a49b6c7f86_540x.jpg?v=1684241615"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Pattern Printing Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-men-s-black-pmbb058e20fle0071055",
+    "category": "Hoodie",
+    "description": "PMBB058E20FLE0071055",
+    "price": "$574",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_362bf378-8d7e-4e07-8c62-ffe73e355a04_540x.jpg?v=1684242063"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Kill The Bear Tee Purple Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-kill-the-bear-tee-pmaa001f194130031028",
+    "category": "T-shirts",
+    "description": "PMAA001F194130031028",
+    "price": "$343",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_fef2be4d-985a-4e6e-9c6e-cf1393004c93_540x.jpg?v=1684241619"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS  Logo Print Hooded Overshirt Green",
+    "url": "https://www.kickscrew.com/products/palm-angels-men-s-jacket-green-pmga042e20fab0015701",
+    "category": "Jacket",
+    "description": "PMGA042E20FAB0015701",
+    "price": "$479",
+    "variants": {
+      "Dark Green": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_bee3db52-2c22-46ea-9c7e-6296fd5d7d67_540x.jpg?v=1684240053"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Pattern Printing Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-men-s-black-pmbb058e20fle0101055",
+    "category": "Hoodie",
+    "description": "PMBB058E20FLE0101055",
+    "price": "$429",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_adaf3bab-ca04-4d66-a3f5-19865f6c3ed1_540x.jpg?v=1684240300"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Bear Pattern Printing Pullover Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-men-s-black-pmba026e20fle0021001",
+    "category": "Hoodie",
+    "description": "PMBA026E20FLE0021001",
+    "price": "$400",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_2ab83c60-8c44-4799-9ae3-e135c3892069_540x.jpg?v=1684238981"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Flame Alphabet Logo Printing Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-t-men-s-black-pmaa001e20jer0011020",
+    "category": "T-shirts",
+    "description": "PMAA001E20JER0011020",
+    "price": "$264",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_e6cb4cac-7f9c-400b-a141-8c0b62676861_540x.jpg?v=1684241618"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Printing Short Sleeve White",
+    "url": "https://www.kickscrew.com/products/palm-angels-tee-pmaa001e20jer0130155",
+    "category": "T-shirts",
+    "description": "PMAA001E20JER0130155",
+    "price": "$246",
+    "variants": {
+      "White": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_80598d98-80e3-40e4-819b-9461877c4274_540x.jpg?v=1684240424"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Teddy Bear Pattern Printing Round Neck Short Sleeve White",
+    "url": "https://www.kickscrew.com/products/palm-angels-t-men-s-t-shirt-white-pmaa001e20jer0044401",
+    "category": "T-shirts",
+    "description": "PMAA001E20JER0044401",
+    "price": "$323",
+    "variants": {
+      "White": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_72a2bd7d-a590-4ddb-8e9f-0389518cd7f2_540x.jpg?v=1684239427"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS White Rainbow Track Jacket Stripe",
+    "url": "https://www.kickscrew.com/products/palm-angels-white-rainbow-track-jacket-pmbd001s193840030288",
+    "category": "Jacket",
+    "description": "PMBD001S193840030288",
+    "price": "$585",
+    "variants": {
+      "White": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_599a1e45-dc5d-4f87-b80a-b04790faf2f9_540x.jpg?v=1684241830"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS SS21 Bear Cartoon Printing Round Neck Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-ss21-t-men-s-black-pmaa001s21jer0191001",
+    "category": "T-shirts",
+    "description": "PMAA001S21JER0191001",
+    "price": "$321",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_804e58da-5da0-4b3e-b428-84bd20c54840_540x.jpg?v=1684241503"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Printing Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-tee-pmaa001s204130161088",
+    "category": "T-shirts",
+    "description": "PMAA001S204130161088",
+    "price": "$271",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_cfd86659-c277-4799-a0fd-c41f832ef9d3_540x.jpg?v=1684239505"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Classic Logo Long Sleeves Green",
+    "url": "https://www.kickscrew.com/products/palm-angels-t-men-s-green-pmab001e20jer0025959",
+    "category": "T-shirts",
+    "description": "PMAB001E20JER0025959",
+    "price": "$458",
+    "variants": {
+      "Green": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_459c2ad4-08d6-4538-b68a-2ee84e4312e4_540x.jpg?v=1684240672"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Logo Printing Red",
+    "url": "https://www.kickscrew.com/products/palm-angels-men-s-red-pmbb036e194410022001",
+    "category": "Hoodie",
+    "description": "PMBB036E194410022001",
+    "price": "$450",
+    "variants": {
+      "Red": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_1f07a047-b0a6-487c-b855-b685d2ce1543_540x.jpg?v=1684239079"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Teddy Bear Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-pmbb058r206310321088",
+    "category": "Hoodie",
+    "description": "PMBB058R206310321088",
+    "price": "$516",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_6c473f9d-7d71-4b5e-8b37-48497befabd4_540x.jpg?v=1684239176"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Pattern Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-tee-pmaa054e20jer0041055",
+    "category": "T-shirts",
+    "description": "PMAA054E20JER0041055",
+    "price": "$381",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_13e4b35b-7df1-40a0-a753-96d700636e95_540x.jpg?v=1684241922"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Printed Logo Denim Jacket Back Alphabet logo Washed Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-printed-denim-jacket-pmye006r203440037601",
+    "category": "Jacket",
+    "description": "PMYE006R203440037601",
+    "price": "$863",
+    "variants": {
+      "Grey": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_7f804418-609f-4d2e-bbca-8472b1dd1efc_540x.jpg?v=1684239044"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Burning Skeleton Tee Flame Printing Short Sleeve White",
+    "url": "https://www.kickscrew.com/products/palm-angels-burning-skeleton-tee-pmaa001r204130260188",
+    "category": "T-shirts",
+    "description": "PMAA001R204130260188",
+    "price": "$258",
+    "variants": {
+      "White": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_83d7781c-63a6-4d5b-9aea-bc524748cbf2_540x.jpg?v=1684241513"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Round Neck Solid Color Logo Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-logo-tee-pmaa036s19590071-1001",
+    "category": "T-shirts",
+    "description": "PMAA036S19590071-1001",
+    "price": "$142",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_0bdca680-4340-493d-9af6-3dac576006bd_540x.jpg?v=1684241169"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Pink Bear S/S Back logo Short Sleeve White",
+    "url": "https://www.kickscrew.com/products/palm-angels-pink-bear-s-s-logo-tee-pwaa017s20jer0010160",
+    "category": "T-shirts",
+    "description": "Women's PALM ANGELS Pink Bear S/S T-shirt Back logo Short Sleeve White PWAA017S20JER0010160",
+    "price": "$246",
+    "variants": {
+      "White": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_35f68111-af9f-4219-9572-8e4227f3712e_540x.jpg?v=1656559757"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Tokyo Sprayed Logo Tee Logo Tee",
+    "url": "https://www.kickscrew.com/products/palm-angels-tokyo-sprayed-logo-tee-logo-tee-pmaa001s204130590120",
+    "category": "T-shirts",
+    "description": "PALM ANGELS Tokyo Sprayed Logo Tee Logo Tee PMAA001S204130590120",
+    "price": "$266",
+    "variants": {
+      "White": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_bf94b0b8-af76-4ebe-86f4-8eba18b68cbc_540x.jpg?v=1657195143"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Bear Back logo Short Sleeve Black",
+    "url": "https://www.kickscrew.com/products/palm-angels-logo-tee-pwaa017s20jer0011060",
+    "category": "T-shirts",
+    "description": "Women's PALM ANGELS Bear Back logo Short Sleeve T-shirt Black PWAA017S20JER0011060",
+    "price": "$323",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_ff09ef6c-70b2-4305-89a2-6948587faa09_540x.jpg?v=1657195120"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Logo Round-neck Short Sleeve Pink",
+    "url": "https://www.kickscrew.com/products/palm-angels-pink-bear-s-s-tee-pwaa017s20jer0013060",
+    "category": "T-shirts",
+    "description": "PALM ANGELS Womens WMNS Logo Round-neck Short Sleeve Pink PWAA017S20JER0013060",
+    "price": "$304",
+    "variants": {
+      "Pink": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_9b7e0b0b-7d63-49d9-82d9-46c37f1761db_540x.jpg?v=1656858814"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "PALM ANGELS Bear Printing Short Sleeve White",
+    "url": "https://www.kickscrew.com/products/palm-angels-t-women-s-white-pwaa017s20jer0070160",
+    "category": "T-shirts",
+    "description": "Women's PALM ANGELS Bear Printing Short Sleeve T-shirt White PWAA017S20JER0070160",
+    "price": "$379",
+    "variants": {
+      "White": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_783374e1-82b2-4667-8bd6-b640fd5304df_540x.jpg?v=1658117731"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  },
+  {
+    "brand": "Palm Angels",
+    "title": "Palm Angels Doubled Logo Over Tee 'Black/Fuchsia'",
+    "url": "https://www.kickscrew.com/products/palm-angels-doubled-logo-over-tee-black-fuchsia-pmaa002c99jer0031032",
+    "category": "T-shirts",
+    "description": "PMAA002C99JER0031032",
+    "price": "$285",
+    "variants": {
+      "Black": {
+        "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/main-square_0bbff031-1779-4b10-9be8-e3094d2cf4f2_540x.jpg?v=1683488705"
+      }
+    },
+    "audience": [
+      "Men's"
+    ]
+  }
+]

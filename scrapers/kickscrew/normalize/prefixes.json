@@ -1,0 +1,6 @@
+{
+    "Women's": ["(WMNS)", "Female", "(Wmns)", "'WMNS'", "(GS)"],
+    "Men's":   ["Men's", "Male"],
+    "Kid's":   ["(Big Kid)", "(KIDS)", "(Kids)", "Kids", "(BP)", "(PS)", "(BG)"],
+    "Infants": ["(Little Kid)", "(Infant)", "(Baby)", "(Toddler)", "(TD)"]
+}
